@@ -111,10 +111,10 @@
                 <ul class="navbar-nav d-flex justify-content-between">
                     <div class="d-flex flex-lg-row flex-column">
                         <li class="nav-item active">
-                            <a class="nav-link" href="http://localhost/couth_server/frontend/index.php">Home<span class="sr-only">(current)</span></a>
+                            <a class="nav-link" href="http://localhost/couth_server/MyDelights-Front/index.php">Home<span class="sr-only">(current)</span></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="http://localhost/couth_server/frontend/about.php">Acerca de nosotros</a>
+                            <a class="nav-link" href="http://localhost/couth_server/MyDelights-Front/about.php">Acerca de nosotros</a>
                         </li>
                     </div>
                 </ul>
@@ -125,13 +125,13 @@
                 <ul class="navbar-nav d-flex justify-content-between">
                     <div class="d-flex flex-lg-row flex-column">
                         <li class="nav-item active">
-                            <a class="nav-link" href="http://localhost/couth_server/frontend/menu.php">Platos</a>
+                            <a class="nav-link" href="http://localhost/couth_server/MyDelights-Front/menu.php">Platos</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="http://localhost/couth_server/frontend/cotizaciones.php">Cotizaciones</a>
+                            <a class="nav-link" href="http://localhost/couth_server/MyDelights-Front/cotizaciones.php">Cotizaciones</a>
                         </li>
                         <li class="nav-item dropdown">
-                            <a class="nav-link" href="http://localhost/couth_server/frontend/pedidos.php">Pedidos</a>
+                            <a class="nav-link" href="http://localhost/couth_server/MyDelights-Front/pedidos.php">Pedidos</a>
                         </li>
                     </div>
                 </ul>
@@ -139,7 +139,6 @@
         </div>
     </nav>
 
-    <!-- Main Content -->
     <div class="container mt-5">
         <h1 class="text-center">Lista de Cotizaciones</h1>
         <div class="d-flex justify-content-end my-3">
@@ -164,7 +163,6 @@
         </div>
     </div>
 
-    <!-- Modal para mostrar el total -->
     <div class="modal-overlay" id="totalModal">
         <div class="modal-content">
             <div class="modal-header">
@@ -209,7 +207,6 @@
         </div>
     </div>
 
-    <!-- Modal de Confirmación -->
     <div class="modal-overlay" id="deleteModal">
         <div class="modal-content">
             <div class="modal-header">
@@ -225,7 +222,6 @@
         </div>
     </div>
 
-    <!-- Modal de Éxito -->
     <div class="modal-overlay" id="successModal">
         <div class="modal-content">
             <div class="modal-header">
