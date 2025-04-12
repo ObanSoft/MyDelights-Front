@@ -129,11 +129,10 @@
 <body data-spy="scroll" data-target="#navbar" class="static-layout">
     <div id="canvas-overlay"></div>
     <div class="boxed-page">
-        <!-- Navbar -->
         <nav id="navbar-header" class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand navbar-brand-center d-flex align-items-center p-0 only-mobile" href="/">
-                    <img src="img/logo.jpg" alt="Logo">
+                <img src="/img/logo.jpg" alt="Logo">
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="lnr lnr-menu"></span>
@@ -143,7 +142,7 @@
                     <ul class="navbar-nav d-flex justify-content-between">
                         <div class="d-flex flex-lg-row flex-column">
                             <li class="nav-item active">
-                                <a class="nav-link" href="http://localhost/couth_serverMyDelights-Front/index.php">Home<span class="sr-only">(current)</span></a>
+                                <a class="nav-link" href="http://localhost/couth_server/MyDelights-Front/index.php">Home<span class="sr-only">(current)</span></a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="http://localhost/couth_server/MyDelights-Front/about.php">Acerca de nosotros</a>

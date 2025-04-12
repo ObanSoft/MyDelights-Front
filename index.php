@@ -52,8 +52,8 @@
             </ul>
             
             <a class="navbar-brand navbar-brand-center d-flex align-items-center only-desktop" href="#">
-                <img src="./img/logo.jpg" alt="">
-            </a>
+			<img src="/couth_server/MyDelights-Front/logo.jpg" alt="Logo">
+			</a>
             <ul class="navbar-nav d-flex justify-content-between">
                 <div class="d-flex flex-lg-row flex-column">
                     <li class="nav-item active">
